@@ -1,5 +1,4 @@
 tests
 =====
 
-write letterz and shit, yo
-anyway it's just a test.
+Simple scripts I did for teh lulz.
