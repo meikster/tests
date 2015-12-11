@@ -8,4 +8,5 @@ Simple scripts I did for teh lulz.
 - portscan.go
   Same as above. I'm not sure it will replace nmap someday, but I learned
   the basics of network programming this way
-
+- vulnserver_GTER_egghunter.py :
+  Basic exploit file for vulnserver.exe "GTER" command using a basic egghunter
