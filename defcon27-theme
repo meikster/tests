@@ -1,0 +1,15 @@
+# dconf dump /org/gnome/terminal/legacy/profiles:/
+# you may need to adjust the following line to match your system
+[:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+foreground-color='rgb(7,202,249)'
+cursor-background-color='rgb(255,99,190)'
+cursor-colors-set=true
+highlight-colors-set=true
+cursor-foreground-color='rgb(254,122,193)'
+bold-color-same-as-fg=false
+bold-color='rgb(181,90,252)'
+background-color='rgb(0,0,0)'
+background-transparency-percent=10
+highlight-foreground-color='rgb(255,99,190)'
+# put this in a file then:
+# cat /your/file | dconf load /org/gnome/terminal/legacy/profiles:/
