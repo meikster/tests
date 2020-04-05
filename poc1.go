@@ -1,4 +1,5 @@
 // AWAE "atutor" poc1
+// CVE-2016-2555 (with php display_errors = 1)
 // Written in golang for fun
 // meik ([at] protonmail)
  
